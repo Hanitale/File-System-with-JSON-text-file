@@ -1,0 +1,1 @@
+{"type":"folder","id":0,"name":"root","children":[{"type":"folder","id":1,"name":"sub1","children":[{"type":"file","id":4,"name":"file1.txt"}]},{"type":"folder","id":2,"name":"sub2","children":[]},{"type":"file","id":3,"name":"file1.txt","content":"\"Not much to say\""},{"type":"file","id":6,"name":"hanita","content":"as amazing as this is it is actually working..."}]}
